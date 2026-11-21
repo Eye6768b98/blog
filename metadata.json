@@ -1,0 +1,8 @@
+{
+  "name": "Witchy Tunes",
+  "description": "Music, magic, merch, and the cozy coven songwriting blog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
